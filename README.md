@@ -29,7 +29,7 @@ PROCEDURE:
 7.	The output voltage is obtained in the Multimeter and the input and output voltage waveforms are plotted in a graph sheet.
 
 MODEL GRAPH: 
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/4e73a10f-2fb0-4bf8-99ff-f5f983fb6c49" />
+
 
 
 TABULATION:
