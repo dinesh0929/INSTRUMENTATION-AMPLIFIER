@@ -30,6 +30,7 @@ PROCEDURE:
 
 MODEL GRAPH: 
 
+<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/824b2d81-5d99-4d80-af7d-c986af411dd5" />
 
 
 TABULATION:
